@@ -1,4 +1,4 @@
-### Garrett lee
+# Garrett Lee
 
 ## Software Developer 
 - Python
