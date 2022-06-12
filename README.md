@@ -1,4 +1,14 @@
-### Hi there 👋
+### Garrett lee
+
+## Software Developer 
+- Python
+- Javascript
+- C#
+- C++
+- C
+- HTML/CSS
+
+
 
 <!--
 **RGarrettLee/RGarrettLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
