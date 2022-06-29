@@ -5,7 +5,9 @@ Just a software developer making things that I think are cool
 ## Tech Stack
 - Python
 - Javascript
-- C#
-- C++
-- C
+- Express
+- FastAPI
+- MySQL
+- MongoDB
+- Selenium
 - HTML/CSS
