@@ -7,6 +7,8 @@ Just a software developer making things that I think are cool
 - Javascript - **(React | Express | Node | Handlebars)**
 - Next.JS
 - Supabase
+- TailwindCSS
+- Bootstrap
 - MySQL/Sequelize
 - MongoDB
 - GraphQL
