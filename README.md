@@ -4,14 +4,13 @@ Just a software developer making things that I think are cool
 
 ## Tech Stack
 - Python - **(FastAPI | Selenium | Discord.py)**
-- Javascript - **(React | Express | Node | Handlebars)**
-- Next.JS
-- Supabase
-- TailwindCSS
-- Bootstrap
+- Javascript - **(React | Next | Express | Node | Handlebars)**
 - MySQL/Sequelize
 - MongoDB
 - GraphQL
+- Supabase
+- TailwindCSS
+- Bootstrap
 - HTML/CSS
 
 # Notable Projects
